@@ -29,6 +29,7 @@ $(function () {
         var menu_title = $('#menu_title');
         menu_title.attr('href', response.data.html_url);
         menu_title.text(response.data.login);
+        $('title').append(' - ' + response.data.login);
         if (location.hash === '') {
             location.hash = '#projects';
         } else {
