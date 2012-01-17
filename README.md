@@ -26,6 +26,8 @@ At this time:
 
 Sure! Why else would I bother making some JavaScript to generate the page?
 
+Just fork the repo and rename it to `<your username>.github.com`
+
 ## Who made this again? I forget
 
 This site was made by [Dafydd Francis](http://dafrancis.github.com/)
